@@ -19,7 +19,7 @@ sudo apt-get -y install software-properties-common
 sudo apt-get -y install python3-software-properties
 sudo apt-get -y install python-software-properties
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
-sudo apt-get -y install unzip zip
+sudo apt-get -y install unzip zip git
 sudo apt-get install daemontools
 sudo apt-get update
 
