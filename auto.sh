@@ -1,5 +1,5 @@
 # auto1
-#!/bin/bash
+# bin/bash
 # Starting setup 
 
 #Preparation
